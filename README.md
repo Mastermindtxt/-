@@ -4,59 +4,60 @@ This is a curated list of common Japanese words and their English translations. 
 
 ## Word List
 
-| Japanese | English | Description |
-| -------- | ------- | ----------- |
-| おはよう | Good morning | Morning greeting |
-| こんにちは | Hello | Daytime greeting |
-| こんばんは | Good evening | Evening greeting |
-| おやすみ | Goodnight | Said before sleeping |
-| ありがとう | Thank you | Casual thank you |
-| ごめん | Sorry | Casual apology |
-| はい | Yes | Affirmative response |
-| いいえ | No | Negative response |
-| どうぞ | Please (go ahead) | Offering or inviting |
-| どうも | Thanks | Casual thanks / greeting |
-| すみません | Excuse me / Sorry | Polite apology / attention-getting |
-| おねがい | Please | Requesting something |
-| わかる | Understand | To understand |
-| わからない | Don't understand | Negative of understand |
-| みる | See / Watch | To look or watch |
-| きく | Hear / Ask | To listen or ask |
-| はなす | Speak / Talk | To speak or talk |
-| いく | Go | To go |
-| くる | Come | To come |
-| たべる | Eat | To eat |
-| のむ | Drink | To drink |
-| かう | Buy | To buy something |
-| うる | Sell | To sell something |
-| すき | Like | To like |
-| きらい | Dislike | To dislike |
-| いい | Good | Good / nice |
-| わるい | Bad | Bad / wrong |
-| あつい | Hot (weather) | Hot temperature |
-| さむい | Cold (weather) | Cold temperature |
-| むずかしい | Difficult | Hard or complicated |
-| かんたん | Easy | Easy / simple |
-| たかい | Expensive / High | High price or tall |
-| やすい | Cheap / Low | Low price |
-| はやい | Early / Fast | Fast or early |
-| おそい | Late / Slow | Opposite of fast |
-| あたらしい | New | Something new |
-| ふるい | Old | Something old |
-| ちいさい | Small | Small or little |
-| おおきい | Big | Big or large |
-| いえ | House / Home | One’s house or home |
-| がっこう | School | Place of learning |
-| せんせい | Teacher | Teacher or mentor |
-| ともだち | Friend | A friend |
-| こども | Child | A young child |
-| おとな | Adult | A grown person |
-| きょう | Today | Current day |
-| あした | Tomorrow | The day after today |
-| きのう | Yesterday | The day before today |
-| いま | Now | The present time |
-| じかん | Time | The concept of time |
-| ひ | Day / Sun | Refers to a day or the sun |
+| Japanese  | Romanized | English              | Description                            |
+| --------- | --------- | -------------------- | -------------------------------------- |
+| おはよう   | ohayou    | Good morning         | Morning greeting                       |
+| こんにちは | konnichiwa| Hello                | Daytime greeting                       |
+| こんばんは | konbanwa  | Good evening         | Evening greeting                       |
+| おやすみ   | oyasumi   | Goodnight            | Said before sleeping                   |
+| ありがとう | arigatou  | Thank you             | Casual thank you                       |
+| ごめん     | gomen     | Sorry                | Casual apology                         |
+| はい       | hai       | Yes                  | Affirmative response                   |
+| いいえ     | iie       | No                   | Negative response                       |
+| どうぞ     | douzo     | Please (go ahead)     | Offering or inviting                   |
+| どうも     | doumo     | Thanks               | Casual thanks / greeting               |
+| すみません | sumimasen | Excuse me / Sorry    | Polite apology / attention-getting     |
+| おねがい   | onegai    | Please               | Requesting something                   |
+| わかる     | wakaru    | Understand           | To understand                          |
+| わからない | wakaranai | Don't understand     | Negative of understand                 |
+| みる       | miru      | See / Watch          | To look or watch                       |
+| きく       | kiku      | Hear / Ask           | To listen or ask                       |
+| はなす     | hanasu    | Speak / Talk         | To speak or talk                       |
+| いく       | iku       | Go                   | To go                                  |
+| くる       | kuru      | Come                 | To come                                |
+| たべる     | taberu    | Eat                  | To eat                                 |
+| のむ       | nomu      | Drink                | To drink                               |
+| かう       | kau       | Buy                  | To buy something                       |
+| うる       | uru       | Sell                 | To sell something                      |
+| すき       | suki      | Like                 | To like                                |
+| きらい     | kirai     | Dislike              | To dislike                             |
+| いい       | ii        | Good                 | Good / nice                            |
+| わるい     | warui     | Bad                  | Bad / wrong                            |
+| あつい     | atsui     | Hot (weather)        | Hot temperature                        |
+| さむい     | samui     | Cold (weather)       | Cold temperature                       |
+| むずかしい | muzukashii| Difficult            | Hard or complicated                    |
+| かんたん   | kantan    | Easy                 | Easy / simple                          |
+| たかい     | takai     | Expensive / High     | High price or tall                     |
+| やすい     | yasui     | Cheap / Low          | Low price                              |
+| はやい     | hayai     | Early / Fast         | Fast or early                          |
+| おそい     | osoi      | Late / Slow          | Opposite of fast                       |
+| あたらしい | atarashii | New                  | Something new                          |
+| ふるい     | furui     | Old                  | Something old                          |
+| ちいさい   | chiisai   | Small                | Small or little                        |
+| おおきい   | ookii     | Big                  | Big or large                           |
+| いえ       | ie        | House / Home         | One’s house or home                    |
+| がっこう   | gakkou    | School               | Place of learning                      |
+| せんせい   | sensei    | Teacher              | Teacher or mentor                      |
+| ともだち   | tomodachi | Friend               | A friend                               |
+| こども     | kodomo    | Child                | A young child                          |
+| おとな     | otona     | Adult                | A grown person                         |
+| きょう     | kyou      | Today                | Current day                            |
+| あした     | ashita    | Tomorrow             | The day after today                    |
+| きのう     | kinou     | Yesterday            | The day before today                   |
+| いま       | ima       | Now                  | The present time                       |
+| じかん     | jikan     | Time                 | The concept of time                    |
+| ひ         | hi        | Day / Sun            | Refers to a day or the sun             |
+
 
 ## Usage & Context
 
